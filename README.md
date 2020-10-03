@@ -1,7 +1,7 @@
 ### HenryGBC Dev
 
 - :computer: Computer Engineer
-- :floppy_disk: I have more than 8 years of experience in the web development world,
+- :floppy_disk: I have more than 8 years of experience in the web development world
 - :heart: Frontend Senior
 - :yellow_heart: Javascript
 - :blue_heart: TypeScript
