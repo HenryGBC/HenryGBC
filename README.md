@@ -7,6 +7,7 @@
 - :heart: Frontend Senior
 - :yellow_heart: Python
 - Software architect in progress
+- On Twitch: https://www.twitch.tv/henrygbc
 - :globe_with_meridians: https://henrygbc.dev/
 - :pencil2: Share content in https://www.instagram.com/henrygbcdev/
 
