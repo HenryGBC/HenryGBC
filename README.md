@@ -4,7 +4,7 @@
 - :floppy_disk: I have more than 8 years of experience in the web development world
 - :yellow_heart: Javascript
 - :blue_heart: TypeScript
-- :heart: Frontend Senior
+- :heart: Software Enginner
 - :yellow_heart: Python
 - Software architect in progress
 - On Twitch: https://www.twitch.tv/henrygbc
