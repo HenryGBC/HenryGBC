@@ -1,16 +1,13 @@
-### HenryGBC Dev
+I'm Henry Bravo, the engineer who turns AI ideas into working products.
 
-- :computer: Computer Engineer
-- :floppy_disk: I have more than 8 years of experience in the web development world
-- :yellow_heart: Javascript
-- :blue_heart: TypeScript
-- :heart: Software Enginner
-- :yellow_heart: Python
-- Software architect in progress
-- On Twitch: https://www.twitch.tv/henrygbc
-- :globe_with_meridians: https://henrygbc.dev/
-- :pencil2: Share content in https://www.instagram.com/henrygbcdev/
+After 14 years building everything from code to teams (junior → CTO), I discovered something game-changing: using AI to accelerate AI product development.
 
-Content creator at https://www.youtube.com/channel/UCQZ9xuu8aA7HdsvJXrAPrlg?sub_confirmation=1
+While others spend months on "AI strategy" and PowerPoints, I deliver working MVPs that real users can actually test.
 
-☕ Buy me a Coffee **https://www.buymeacoffee.com/henrygbc**
+My method: 4 proven base components + AI-accelerated development = idea to production in 30 days max.
+
+At Seika, I help B2B companies integrate real AI into their products. No consulting. No documents. Working code.
+
+3 MVPs delivered in 2024. 100% in production. 0% abandoned.
+
+Is your "AI strategy" still stuck in PowerPoints? Let's talk about real results.
